@@ -2,3 +2,4 @@
 cp -un *.html .. /
 cp  -un *.html ../
 cp  -un *.html ../
+cp  -un *.html .. /
